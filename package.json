@@ -1,0 +1,23 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betterhealth/HealthInformationTrackerLP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/betterhealth/HealthInformationTrackerLP/issues"
+  },
+  "homepage": "https://github.com/betterhealth/HealthInformationTrackerLP#readme",
+  "dependencies": {
+    "form-serializer": "^2.5.0",
+    "jquery": "^3.3.1"
+  }
+}
